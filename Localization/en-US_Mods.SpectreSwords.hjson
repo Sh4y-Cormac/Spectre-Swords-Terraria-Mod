@@ -1,0 +1,11 @@
+Items: {
+	CardDeck: {
+		DisplayName: Card Deck
+		Tooltip: ""
+	}
+
+	ForgottenSword: {
+		DisplayName: Forgotten Sword
+		Tooltip: ""
+	}
+}

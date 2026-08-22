@@ -1,0 +1,3 @@
+displayName = Spectre Swords
+author = MunchingBOT
+version = 0.1
