@@ -1,7 +1,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 using Terraria.Localization;
-using Terraria.GameContent.Creative;
+using Terraria.GameContent.Creative; // Libraries needed
 
 namespace SpectreSwords.Content.Items.Materials // Where your code located
 {
