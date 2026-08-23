@@ -13,4 +13,11 @@ Items: {
 		DisplayName: The Goon Gun
 		Tooltip: ""
 	}
+
+	GordonStaff: {
+		DisplayName: Gordon Staff
+		Tooltip: ""
+	}
 }
+
+Projectiles.ElectromagneticBolt.DisplayName: Electromagnetic Bolt
