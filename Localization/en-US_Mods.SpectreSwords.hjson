@@ -8,4 +8,9 @@ Items: {
 		DisplayName: Forgotten Sword
 		Tooltip: ""
 	}
+
+	TheGoonGun: {
+		DisplayName: The Goon Gun
+		Tooltip: ""
+	}
 }
