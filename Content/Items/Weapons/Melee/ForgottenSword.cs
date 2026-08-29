@@ -31,7 +31,7 @@ namespace SpectreSwords.Content.Items.Weapons.Melee // where the code is located
             Item.knockBack = 10f; // How far the sword punches enemies, 20 is maximal value
             Item.autoReuse = true; // Can the item auto swing by holding the attack button
 
-             Item.value = 100000; // Item sell price in copper coins
+            Item.value = 100000; // Item sell price in copper coins
             Item.useStyle = ItemUseStyleID.Swing; // This is how you're holding the weapon, visit https://terraria.wiki.gg/wiki/Use_Style_IDs for list of possible use styles
             Item.UseSound = SoundID.Item1; // What sound is played when using the item, all sounds can be found here - https://terraria.wiki.gg/wiki/Sound_IDs
         }

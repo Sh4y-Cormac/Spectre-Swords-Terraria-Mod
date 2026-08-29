@@ -18,6 +18,16 @@ Items: {
 		DisplayName: Gordon Staff
 		Tooltip: ""
 	}
+
+	MoonTablet: {
+		DisplayName: Moon Tablet
+		Tooltip: A pristine material for producing wondrous weapons
+	}
+
+	Katamoon: {
+		DisplayName: Katamoon
+		Tooltip: ""
+	}
 }
 
 Projectiles.ElectromagneticBolt.DisplayName: Electromagnetic Bolt
