@@ -28,6 +28,24 @@ Items: {
 		DisplayName: Katamoon
 		Tooltip: ""
 	}
+
+	MoonPickaxe: {
+		DisplayName: Moon Pickaxe
+		Tooltip: ""
+	}
+
+	MoonAxe: {
+		DisplayName: Moon Axe
+		Tooltip: ""
+	}
+
+	MoonRapier: {
+		DisplayName: Moon Rapier
+		Tooltip: ""
+	}
 }
 
-Projectiles.ElectromagneticBolt.DisplayName: Electromagnetic Bolt
+Projectiles: {
+	ElectromagneticBolt.DisplayName: Electromagnetic Bolt
+	MoonBlast.DisplayName: Moon Blast
+}
