@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpectreSwords")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f3e558af192498e893d8d437ec7565882e8229f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99bae8115cf0f27e643d3915c8a5cdf3c7032410")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpectreSwords")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpectreSwords")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

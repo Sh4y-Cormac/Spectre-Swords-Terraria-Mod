@@ -43,9 +43,21 @@ Items: {
 		DisplayName: Moon Rapier
 		Tooltip: ""
 	}
+
+	RikkaBar: {
+		DisplayName: Rikka Bar
+		Tooltip: ""
+	}
+
+	RikkaOre: {
+		DisplayName: Rikka Ore
+		Tooltip: ""
+	}
 }
 
 Projectiles: {
 	ElectromagneticBolt.DisplayName: Electromagnetic Bolt
 	MoonBlast.DisplayName: Moon Blast
 }
+
+Tiles.RikkaOre.MapEntry: Rikka Ore
